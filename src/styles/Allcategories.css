@@ -1,0 +1,18 @@
+.category-card {
+  outline: none;
+  background-color: #3e3e42;
+  color: white;
+  font-weight: bold;
+  height: 10em;
+  width: 100%;
+}
+
+.category-card:hover {
+  background-color: #e5e4e2;
+  color: black;
+}
+
+.cat-container {
+  justify-content: space-around;
+  gap: 20px;
+}
